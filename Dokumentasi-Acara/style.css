@@ -82,9 +82,6 @@
   padding-top: 90px;
 }
 
-.text-halalbihalal1 {
-}
-
 .text-halalbihalal2 {
   text-align: end;
 }
@@ -266,4 +263,14 @@ img.hover-shadow {
   height: 100%;
   width: 100%;
   position: absolute;
+}
+
+.dropdown.dropdown-footer {
+  background-color: green;
+  padding: 8px 15px;
+}
+
+.dropdown:hover.dropdown-footer {
+  background-color: rgb(3, 71, 3);
+  transition: 0.2s ease-in-out;
 }
