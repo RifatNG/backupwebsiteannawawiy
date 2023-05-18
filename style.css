@@ -104,6 +104,28 @@
 }
 /* agenda pengumuman end */
 
+/* PROFIL PENGASUH START */
+
+.text-profilpengasuh {
+  text-decoration: none;
+  color: white;
+  background-color: green;
+  padding: 6px 17px;
+  border-radius: 12px;
+}
+
+.text-profilpengasuh:hover {
+  color: rgb(221, 221, 221);
+  background-color: rgb(1, 109, 1);
+  transition: 0.2s ease-in-out;
+}
+
+.profile-pengasuh .btn:hover {
+  background-color: black;
+}
+
+/* PROFIL PENGASUH END */
+
 /* berita start */
 .project {
   margin-top: 5rem;
